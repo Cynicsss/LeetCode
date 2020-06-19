@@ -53,4 +53,4 @@ LeetCode重点题整理  目录检索
 
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 75.  | [颜色分类](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/62-unique-paths.cpp) | 中等 |
+| 75.  | [颜色分类](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/75-sort-colors.cpp) | 中等 |
