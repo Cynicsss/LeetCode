@@ -12,7 +12,7 @@ LeetCode重点题整理  目录检索
 
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 1.   | [两数之和]((https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/01two-sum.cpp) | 简单 |
+| 1.   | [两数之和](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/01two-sum.cpp) | 简单 |
 
 
 
@@ -20,7 +20,7 @@ LeetCode重点题整理  目录检索
 
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 56.  | [合并区间]([https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/56-merge-intervals.cpp](https://github.com/Cynicsss/LeetCode/blob/master/数组/56-merge-intervals.cpp)) | 简单 |
+| 56.  | [合并区间](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/56-merge-intervals.cpp) | 简单 |
 
 
 
@@ -28,5 +28,5 @@ LeetCode重点题整理  目录检索
 
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
-| 78.  | [子集]([https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/78-subsets.cpp](https://github.com/Cynicsss/LeetCode/blob/master/数组/78-subsets.cpp)) | 简单 |
+| 78.  | [子集](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/78-subsets.cpp) | 简单 |
 
