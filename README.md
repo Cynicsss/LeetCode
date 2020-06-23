@@ -54,3 +54,31 @@ LeetCode重点题整理  目录检索
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 75.  | [颜色分类](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/75-sort-colors.cpp) | 中等 |
+
+
+
+
+
+### 字符串
+
+#### 双指针
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 03.  | [无重复字符的最长子串](https://github.com/Cynicsss/LeetCode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/03-longest-substring-without-repeating-characters.cpp) | 中等 |
+
+#### 动态规划
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 05.  | [最长回文子串](https://github.com/Cynicsss/LeetCode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/05-longest-palindromic-substring.cpp) | 中等 |
+
+
+
+### 链表
+
+#### 基础
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 02.  | [两数相加](https://github.com/Cynicsss/LeetCode/blob/master/%E9%93%BE%E8%A1%A8/02-add-two-numbers.cpp) | 中等 |
