@@ -30,6 +30,7 @@ LeetCode重点题整理  目录检索
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 78.  | [子集](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/78-subsets.cpp) | 简单 |
+| 53.  | [最大子序和](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/53-maximum-subarray.cpp) | 简单 |
 
 
 
@@ -46,6 +47,7 @@ LeetCode重点题整理  目录检索
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 62.  | [不同路径](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/62-unique-paths.cpp) | 中等 |
+| 53.  | [最大子序和](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/53-maximum-subarray.cpp) | 简单 |
 
 
 
@@ -54,6 +56,24 @@ LeetCode重点题整理  目录检索
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 75.  | [颜色分类](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/75-sort-colors.cpp) | 中等 |
+
+
+
+#### 搜索问题
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 33.  | [搜索旋转排序数组](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/33-search-in-rotated-sorted-array.cpp) | 中等 |
+
+
+
+#### 回溯
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 46.  | [全排列](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/46-permutations.cpp) | 中等 |
+
+
 
 
 
@@ -82,3 +102,7 @@ LeetCode重点题整理  目录检索
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 02.  | [两数相加](https://github.com/Cynicsss/LeetCode/blob/master/%E9%93%BE%E8%A1%A8/02-add-two-numbers.cpp) | 中等 |
+| 206. | [反转链表](https://github.com/Cynicsss/LeetCode/blob/master/%E9%93%BE%E8%A1%A8/206-reverse-linked-list.cpp) | 简单 |
+| 21.  | [合并两个有序链表](https://github.com/Cynicsss/LeetCode/blob/master/%E9%93%BE%E8%A1%A8/21-merge-two-sorted-lists.cpp) | 简单 |
+| 23.  | [合并K个有序链表](https://github.com/Cynicsss/LeetCode/blob/master/%E9%93%BE%E8%A1%A8/23-merge-k-sorted-lists.cpp) | 困难 |
+
