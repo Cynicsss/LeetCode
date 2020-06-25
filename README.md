@@ -1,6 +1,6 @@
 # LeetCode 目录
 
-LeetCode重点题整理  目录检索？？？
+LeetCode重点题整理  目录检索
 
 ---
 
