@@ -64,6 +64,7 @@ LeetCode重点题整理  目录检索
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 33.  | [搜索旋转排序数组](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/33-search-in-rotated-sorted-array.cpp) | 中等 |
+| 04.  | [寻找两个正序数组的中位数](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/04-median-of-two-sorted-arrays.cpp) | 困难 |
 
 
 
