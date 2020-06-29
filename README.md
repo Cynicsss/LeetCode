@@ -56,6 +56,7 @@ LeetCode重点题整理  目录检索
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 75.  | [颜色分类](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/75-sort-colors.cpp) | 中等 |
+| 88.  | [合并两个有序数组](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/88-merge-sorted-array.cpp) | 简单 |
 
 
 
@@ -68,6 +69,14 @@ LeetCode重点题整理  目录检索
 
 
 
+#### 双指针
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 11.  | [盛最多水的容器](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/11-container-with-most-water.cpp) | 中等 |
+
+
+
 #### 回溯
 
 | 序号 | 题目                                                         | 难度 |
@@ -76,7 +85,11 @@ LeetCode重点题整理  目录检索
 
 
 
+#### 基础
 
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 07.  | [整数反转](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/07-reverse-integer.cpp) | 简单 |
 
 
 
@@ -96,6 +109,16 @@ LeetCode重点题整理  目录检索
 
 
 
+#### 基础
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 20.  | [有效的括号](https://github.com/Cynicsss/LeetCode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/20-valid-parentheses.cpp) | 简单 |
+| 08.  | [字符串转换整数(stoi)](https://github.com/Cynicsss/LeetCode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/08-string-to-integer-atoi.cpp) | 中等 |
+| 14.  | [最长公共前缀](https://github.com/Cynicsss/LeetCode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/14-longest-common-prefix.cpp) | 简单 |
+
+
+
 ### 链表
 
 #### 基础
@@ -106,4 +129,14 @@ LeetCode重点题整理  目录检索
 | 206. | [反转链表](https://github.com/Cynicsss/LeetCode/blob/master/%E9%93%BE%E8%A1%A8/206-reverse-linked-list.cpp) | 简单 |
 | 21.  | [合并两个有序链表](https://github.com/Cynicsss/LeetCode/blob/master/%E9%93%BE%E8%A1%A8/21-merge-two-sorted-lists.cpp) | 简单 |
 | 23.  | [合并K个有序链表](https://github.com/Cynicsss/LeetCode/blob/master/%E9%93%BE%E8%A1%A8/23-merge-k-sorted-lists.cpp) | 困难 |
+| 19.  | [删除链表的倒数第N个节点](https://github.com/Cynicsss/LeetCode/blob/master/%E9%93%BE%E8%A1%A8/19-remove-nth-node-from-end-of-list.cpp) | 简单 |
 
+
+
+### 二叉树
+
+#### 基础
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 102. | [二叉树的层序遍历](https://github.com/Cynicsss/LeetCode/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/102-binary-tree-level-order-traversal.cpp) | 中等 |
