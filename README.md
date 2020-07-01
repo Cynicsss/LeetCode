@@ -48,6 +48,8 @@ LeetCode重点题整理  目录检索
 | ---- | ------------------------------------------------------------ | ---- |
 | 62.  | [不同路径](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/62-unique-paths.cpp) | 中等 |
 | 53.  | [最大子序和](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/53-maximum-subarray.cpp) | 简单 |
+| 70.  | [爬楼梯](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/70-climbing-stairs.cpp) | 简单 |
+| 152. | [乘积最大数组](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/152-maximum-product-subarray.cpp) | 中等 |
 
 
 
@@ -82,6 +84,24 @@ LeetCode重点题整理  目录检索
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 46.  | [全排列](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/46-permutations.cpp) | 中等 |
+
+
+
+#### 贪心算法
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 55.  | [跳跃游戏](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/55-jump-game.cpp) | 中等 |
+
+
+
+#### DFS/BFS
+
+| 序号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 200. | [岛屿数量](https://github.com/Cynicsss/LeetCode/blob/master/%E6%95%B0%E7%BB%84/200-number-of-islands.cpp) | 中等 |
+
+
 
 
 
@@ -140,3 +160,4 @@ LeetCode重点题整理  目录检索
 | 序号 | 题目                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | ---- |
 | 102. | [二叉树的层序遍历](https://github.com/Cynicsss/LeetCode/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/102-binary-tree-level-order-traversal.cpp) | 中等 |
+| 94.  | [二叉树的中序遍历]()                                         |      |
