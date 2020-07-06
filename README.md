@@ -129,6 +129,14 @@ LeetCode重点题整理  目录检索
 
 
 
+#### 栈
+
+| 序号 | 题目                                      | 难度 |
+| ---- | ----------------------------------------- | ---- |
+| 32.  | [最长有效括号](longest-valid-parentheses) | 困难 |
+
+
+
 #### 基础
 
 | 序号  | 题目                                                         | 难度      |
@@ -137,6 +145,7 @@ LeetCode重点题整理  目录检索
 | 08.   | [字符串转换整数(stoi)](https://github.com/Cynicsss/LeetCode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/08-string-to-integer-atoi.cpp) | 中等      |
 | 14.   | [最长公共前缀](https://github.com/Cynicsss/LeetCode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/14-longest-common-prefix.cpp) | 简单      |
 | 1670. | [面试题 16.18. 模式匹配](https://github.com/Cynicsss/LeetCode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/pattern-matching-lcci.cpp) | 中等/困难 |
+| 415.  | [字符串相加](https://github.com/Cynicsss/LeetCode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/415-add-strings.cpp) | 简单      |
 
 
 
